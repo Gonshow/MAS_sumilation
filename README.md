@@ -14,3 +14,4 @@ Agents walking in two dimensional space of grid play diremma game
 when they approach the other agent within the distance that under √0.02.
 After game, they learned result and start walking.
 
+![Sample](https://user-images.githubusercontent.com/38319910/89000732-12c64d00-d333-11ea-9232-e46aca3746c5.gif)
