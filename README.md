@@ -17,7 +17,7 @@ when they approach the other agent within the distance that under √0.02.
 After game, they learned result and start walking.
 
 ![Sample](https://user-images.githubusercontent.com/38319910/89000732-12c64d00-d333-11ea-9232-e46aca3746c5.gif)
-<img width="600" alt="スクリーンショット 2020-07-31 13 45 29" src="https://user-images.githubusercontent.com/38319910/89001156-4d7cb500-d334-11ea-85a5-e83597bd0f21.png">
+<img width="635" alt="スクリーンショット 2020-07-31 13 45 29" src="https://user-images.githubusercontent.com/38319910/89001156-4d7cb500-d334-11ea-85a5-e83597bd0f21.png">
 
 
 結果、みんな非協力戦略になった。そりゃそう。
@@ -33,7 +33,7 @@ If a agent selects cooperative strategy, the agent's  value of cooperative strat
 Good action and good feeling. Like that.
 
 ![ex_smp3](https://user-images.githubusercontent.com/38319910/89001968-d137a100-d336-11ea-8ea8-e62bb02ffe4a.gif)
-<img width="600" alt="スクリーンショット 2020-07-31 14 06 41" src="https://user-images.githubusercontent.com/38319910/89002059-18259680-d337-11ea-8722-641ade6ea324.png">
+<img width="635" alt="スクリーンショット 2020-07-31 14 06 41" src="https://user-images.githubusercontent.com/38319910/89002059-18259680-d337-11ea-8722-641ade6ea324.png">
 
 協力戦略エージェントと非協力戦略エージェントが永遠に共存するようになった!
 しかし一定数に収束してしまっているので、実社会のモデル化までの道のりは長い。
