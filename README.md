@@ -24,3 +24,19 @@ After game, they learned result and start walking.
 
 In result all agents became to have uncooperative strategy. There is no doubt.
 
+そこで、エージェントに内的報酬を実装し、環境や他者から得る報酬だけでなく自分自身で行動価値を高めるようにしてみた。
+つまり、協力戦略をとった場合に協力戦略の行動価値にプラスの重み付けをしてみた。
+いいことをしていい気分になる。そんな感じ。
+
+Then I added intrinsic rewards rule to agent that they improve their action value themselves.
+If a agent selects cooperative strategy, the agent's  value of cooperative strategy is increaced.
+Good action and good feeling. Like that.
+
+![ex_smp3](https://user-images.githubusercontent.com/38319910/89001968-d137a100-d336-11ea-8ea8-e62bb02ffe4a.gif)
+<img width="230" alt="スクリーンショット 2020-07-31 14 06 41" src="https://user-images.githubusercontent.com/38319910/89002059-18259680-d337-11ea-8722-641ade6ea324.png">
+
+協力戦略エージェントと非協力戦略エージェントが永遠に共存するようになった!
+しかし一定数に収束してしまっているので、実社会のモデル化までの道のりは長い。
+
+Agents who have cooperative strategy coeternal with uncooperative agents!
+But the number became constant. I might tried to simulate far away world.
