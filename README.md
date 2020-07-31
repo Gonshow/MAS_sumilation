@@ -19,5 +19,6 @@ After game, they learned result and start walking.
 
 
 結果、みんな非協力戦略になった。そりゃそう。
+
 In result all agents became to have uncooperative strategy. There is no doubt.
 
