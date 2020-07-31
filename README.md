@@ -6,7 +6,7 @@ N体のエージェントにone-shotジレンマゲームのルールと
 互いの距離√0.02以下の場合に遭遇したとみなしジレンマゲームを開始する。
 結果を学習し、これを続けていく。
 
-There is so many diremmas around us.
+There  so many diremmas around us.
 To model real world, I simulated encounted type diremma game using Multi Agent System.
 The number of agents is 100.
 They have one-shot diremma game's rule, speed, theta and location of (x,y).
