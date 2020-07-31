@@ -15,3 +15,9 @@ when they approach the other agent within the distance that under √0.02.
 After game, they learned result and start walking.
 
 ![Sample](https://user-images.githubusercontent.com/38319910/89000732-12c64d00-d333-11ea-9232-e46aca3746c5.gif)
+
+![Uploading スクリーンショット 2020-07-31 13.45.29.png…]()
+
+結果、みんな非協力戦略になった。そりゃそう。
+In result all agents became to have uncooperative strategy. There is no doubt.
+
