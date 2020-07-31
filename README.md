@@ -1,5 +1,5 @@
 # MAS_simulation
->>>python walk_sample.py
+>python walk_sample.py
 
 世の中はジレンマに溢れている。そこで実社会のモデル化を目的として、
 MASを使った遭遇型ジレンマゲームのシミュレーションを作った。
