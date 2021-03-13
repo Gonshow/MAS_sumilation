@@ -20,7 +20,7 @@ After game, they learned result and start walking.
 <img width="635" alt="スクリーンショット 2020-07-31 13 45 29" src="https://user-images.githubusercontent.com/38319910/89001156-4d7cb500-d334-11ea-85a5-e83597bd0f21.png">
 
 
-結果、みんな非協力戦略になった。そりゃそう。
+結果、みんな非協力戦略になった。
 
 In result all agents became to have uncooperative strategy. There is no doubt.
 
@@ -36,7 +36,7 @@ Good action and good feeling. Like that.
 <img width="635" alt="スクリーンショット 2020-07-31 14 06 41" src="https://user-images.githubusercontent.com/38319910/89002059-18259680-d337-11ea-8722-641ade6ea324.png">
 
 協力戦略エージェントと非協力戦略エージェントが永遠に共存するようになった!
-しかし一定数に収束してしまっているので、実社会のモデル化までの道のりは長い。
+しかし一定数に収束してしまっている。
 
 Agents who have cooperative strategy coeternal with uncooperative agents!
 But the number became constant. I might tried to simulate far away world.
